@@ -1,0 +1,3 @@
+APPLICATION_NAME=Image Size Standardiser
+EXECUTABLE=Image Size Standardiser.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Image Size Standardiser/manifest.xml

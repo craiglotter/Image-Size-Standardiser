@@ -1,0 +1,10 @@
+application_name = Image Size Standardiser
+application_excutable = AutoUpdate.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 3
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = 3A67A0
+application_forecolour = FFFFFF
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe

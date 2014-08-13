@@ -1,0 +1,17 @@
+Image Size Standardiser
+
+Image Size Standardiser allows you to force all the image files in a specified folder to either a specific width or height in pixels. The images are all stretched or shrunk to meet the required measure (the original aspect ration is retained however - only a single variable can be altered). The resized files are all saved as JPG files.
+
+All image files are backed up before the process is undertaken, meaning that it is possible to restore an image folder to its original state.
+
+Note that the folder parsing is not recursive in nature. 
+
+Created by Craig Lotter, August 2007
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2005
+Implements concepts such as image manipulation.
+Level of Complexity: Simple

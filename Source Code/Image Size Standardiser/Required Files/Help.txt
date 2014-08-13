@@ -1,0 +1,7 @@
+To resize your images, you need to first select a folder to operate on by clicking on the Browse button and selecting a relevant folder. Please note that the folder parsing is not recursive in nature, meaning all your image files need to be located in the selected folder.
+
+Because the application maintains image aspect ratio, you are only able to change either the width or height of an image by selecting one of the two options in the Set drop down box. You can then set the number of pixels to adjust the image to using the Pixels number box.
+
+Once you have selected all your input options, simply click on the Begin button to launch the process. Note that the Cancel button will allow you to cancel a currently running resize operation.
+
+-- Last Updated: 28/08/2007 --
